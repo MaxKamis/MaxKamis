@@ -10,14 +10,14 @@
 ###
 
 <div align="center"> 
-  <a href="mailto:caumutkamis@gmail.com">
+  <a href="mailto:caumutkamis@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/max-kamis-99066b8a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/max-kamis-99066b8a/" />
   </a>
   <a href="/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="/" /> 
   </a>
 </div>
 
