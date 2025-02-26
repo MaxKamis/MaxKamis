@@ -92,7 +92,14 @@
 
 ###
 
+## 📚 What I Am Learning  
 
+Currently diving into **Next.js** and **TypeScript** to expand my knowledge and skill set:
 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)  
+**Next.js**: Building scalable, server-side rendered applications with React.  
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+**TypeScript**: Improving my JavaScript projects with type safety and better tooling.
 
 
