@@ -31,64 +31,50 @@
 
 ### 🔹 Programming & Markup Languages  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-**JavaScript** `██████████` **100%**  
 
 ![JSON](https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)  
-**JSON** `█████████░` **90%**  
-
+ 
 ---
 
 ### 🌐 Frontend Development  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-**React** `█████████░` **90%**  
-
+  
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-**Vite** `████████░░` **80%**  
-
+  
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)  
-**Sass** `███████░░░` **70%**  
 
 ---
 
 ### ⚙ Backend & API Development  
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-**Node.js** `████████░░` **80%**  
-
+ 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-**Express.js** `████████░░` **80%**  
 
 ---
 
 ### 🔑 Authentication & Security  
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  
-**JWT** `████████░░` **80%**  
 
 ![OAuth](https://img.shields.io/badge/OAuth-%23FF9A00.svg?style=for-the-badge&logo=oauth&logoColor=white)  
-**OAuth** `███████░░░` **70%**  
 
 ---
 
 ### 🗄️ Database Management  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-**MySQL** `███████░░░` **70%**  
 
 ---
 
 ### 🛠 DevOps & Tools  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-**Git** `█████████░` **90%**  
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-**GitHub** `█████████░` **90%**  
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-**Azure** `██████░░░░` **60%**  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)   
 
 ---
 
 ### 🎨 UI/UX & Collaboration  
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-**Figma** `███████░░░` **70%**  
 
 ###
 
